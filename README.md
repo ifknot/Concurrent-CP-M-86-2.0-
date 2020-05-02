@@ -1,5 +1,5 @@
 # Concurrent CP/M 86 2.0
-Concurrent CP/M-86 2.0 - 3.5 Diskette Image & Manuals - [WinWorld](https://winworldpc.com/download/40c3b55d-c38a-18c3-9a11-c3a4e284a2ef)
+Concurrent CP/M-86 2.0 - 3.5 Diskette Image & Manuals - courtesy of [WinWorld](https://winworldpc.com/download/40c3b55d-c38a-18c3-9a11-c3a4e284a2ef)
 
 Diskette Labels - created by me
 
