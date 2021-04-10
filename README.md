@@ -4,5 +4,6 @@ Concurrent CP/M-86 2.0 - 3.5 Diskette Image & Manuals - courtesy of [WinWorld](h
 Diskette Labels - created by me
 
 ![disk label](https://github.com/ifknot/Concurrent-CP-M-86-2.0-/blob/master/concurrent%20cpm%2086%20disk%20label.png)
+
 Concurrent CPM-86 2.0 (3.5-1.44m) (customized)
-Concurrent CPM-86 2.0 (3.5-1.44m) (customized)
+
